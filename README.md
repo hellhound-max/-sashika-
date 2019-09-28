@@ -1,7 +1,1 @@
 # -sashika-
-
-   welcome 
-
-   warning 
-
-   Hacked 
